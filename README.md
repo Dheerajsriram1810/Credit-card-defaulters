@@ -15,7 +15,7 @@ Visualizations for insights
 Summary of findings and observations
 
 
-Tools and Libraries Used
+Tools and Libraries Used:
 
 Python 3
 
@@ -28,24 +28,6 @@ Numpy
 Matplotlib
 
 Seaborn
-
-
-How to Run
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/ida-project.git
-
-
-2. Navigate to the project directory:
-
-cd ida-project
-
-
-3. Open the notebook using Jupyter:
-
-jupyter notebook ida-project.ipynb
-
 
 
 Dataset
